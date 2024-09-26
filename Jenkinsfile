@@ -5,7 +5,7 @@ pipeline {
     }
     environment {
     registry = '851725458004.dkr.ecr.us-east-1.amazonaws.com/devops-repository'
-    region = 'us-west-2'
+    region = 'us-west-1'
     dockerimage = ''
   }
     stages {
